@@ -1,0 +1,3 @@
+# Always LF for bash scripts and SQL files
+*sh   text eol=lf
+*sql  text eol=lf
