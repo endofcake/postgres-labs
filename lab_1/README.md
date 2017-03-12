@@ -1,4 +1,4 @@
-# Lab 1 - Basic setup
+# Lab 1 — Basic setup
 In this lab we wil create a simple PostgreSQL container and then try to connect to it.
 
 ## Start
