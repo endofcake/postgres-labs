@@ -1,5 +1,5 @@
 # Lab 2 — Extending the stock image
-Having a working PostgreSQL server is nice, but it quickly becomes onerous to manually create databases and tables. There is a way to bootstrap our server with our schema definition and possibly some seed data which is required for ou application to function properly.
+Having a working PostgreSQL server is nice, but it quickly becomes onerous to manually create databases and tables. There is a way to bootstrap our server with our schema definition and possibly some seed data which is required for our application to function properly.
 
 To achieve this, we will use our own image, which extends the official one by adding our schema definitions to it.
 
