@@ -1,1 +1,4 @@
 .vscode
+
+# Ignore Postgres data directory when we map our container to a host volume
+**/data
